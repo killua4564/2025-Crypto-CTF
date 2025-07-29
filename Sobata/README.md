@@ -7,6 +7,7 @@
 Master Sobata by dissecting ECC secrets, then tame its walk function’s hidden path.
 
 ## Writeup
+https://hackmd.io/@hokak/CryptoCTF2025#sobata
 
 ## Flag
 `CCTF{L1n3Ari7y_iN_w4lkIn9_ECC!}`

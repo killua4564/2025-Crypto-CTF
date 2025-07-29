@@ -7,6 +7,7 @@
 Sobata_II is a hardened variant of Sobata, optimized for secure operations in large finite fields with enhanced resistance to attacks.
 
 ## Writeup
+https://hackmd.io/@hokak/CryptoCTF2025#sobata-II
 
 ## Flag
 `CCTF{Ecc_5tRong_cRyPto!}`
